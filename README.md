@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=160&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=HECATEQ;AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Workflow+Safety+%26+Automation;Project-Aware+Execution" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=HECATEQ;AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Workflow+Safety+%26+Automation;Project-Aware+Execution;Product+Builder+%26+Technical+Architect;Cloud-Native+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-I build **deterministic AI agent orchestration systems**, custom developer tooling, and production-grade full-stack infrastructure. Most of my work lives in private repositories — the engineering direction is outlined below.
+Senior software engineer and product builder — I architect **scalable cloud-native systems**, deterministic AI agent orchestrations, high-performance mobile applications, immersive 3D web experiences, and event-driven automation pipelines. Most of my work lives in private repositories — the engineering direction is outlined below.
 
 <br/>
 
@@ -49,21 +49,63 @@ I build **deterministic AI agent orchestration systems**, custom developer tooli
 **🤖 Agent Infrastructure**
 
 - Custom agent routing & delegation engines
-- Scan-first workspace analysis pipelines
-- Memory-bank & context synchronization
-- CLI-first developer productivity tools
-- Structured post-execution reporting
+- Scan-first workspace AST & dependency analysis
+- Memory-bank & semantic context synchronization
+- Deterministic resolver logic with zero-fake fallbacks
 
 </td>
 <td width="50%" valign="top">
 
 **📦 Product Systems**
 
-- Cross-platform mobile applications
-- Real-time 3D web configurators
-- Backend APIs & admin dashboards
-- Business workflow automation
-- Interactive pricing & validation engines
+- High-performance, multi-tenant SaaS dashboards
+- Real-time 3D web configurators & interactive UI
+- Scalable backend APIs & secure API gateways
+- Local database synchronization & state validation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📱 Mobile & Game Systems**
+
+- Cross-platform apps (Flutter & React Native)
+- Offline-first cache & native gesture layouts
+- Game state machines & logic systems
+- Real-time multiplayer synchronization & leaderboards
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Automation Pipelines**
+
+- Event-driven automation using n8n & Python
+- Sharded background tasks & webhook-driven schedules
+- Real-time message brokers & task queues
+- Administrative toil reduction & log telemetry
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 AI Systems**
+
+- Semantic vector databases (Pinecone, ChromaDB)
+- LLM prompt chaining & context management
+- Structured JSON schema enforcement
+- Consensual AI decision core engines
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Infrastructure & DevOps**
+
+- Containerized hosting (Docker, Kubernetes)
+- Automated deployment & orchestration (Coolify)
+- Secure reverse proxies & self-hosted web gateways
+- Automatic encrypted database backups
 
 </td>
 </tr>
@@ -99,8 +141,8 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 <summary>&nbsp;<strong>📱 Private Product Systems</strong> &nbsp;<sub>— mobile, backend, economy</sub></summary>
 <br/>
 
-- Multilingual mobile applications with offline-first synchronization
-- State-machine-driven economy systems, leaderboards & admin panels  
+- Multilingual mobile applications (Flutter & React Native) with offline-first synchronization and native gesture mechanics
+- State-machine-driven economy systems, interactive game mechanics, leaderboards & admin panels  
 - Scalable backend architectures with real-time telemetry integration
 - Cross-platform deployment pipelines with automated test coverage
 
@@ -110,9 +152,10 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 <summary>&nbsp;<strong>🔧 Client & Business Automation</strong> &nbsp;<sub>— dashboards, workflows, AI ops</sub></summary>
 <br/>
 
-- Internal operational dashboards & process optimization tools
+- Internal operational dashboards & process optimization tools to reduce operational toil
+- Event-driven automation using n8n workflows and custom Python scripts
+- Webhook-driven scheduling, automated report generation & delivery pipelines
 - AI-assisted workflow orchestrators for complex business logic
-- Automated scheduling, report generation & delivery pipelines
 
 </details>
 
@@ -153,6 +196,8 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 [![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -164,6 +209,8 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 [![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
 **Data & Infrastructure**
 
@@ -172,6 +219,10 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 [![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)](https://prisma.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=flat-square&logo=coolify&logoColor=white)](https://coolify.io/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 </div>
