@@ -1,28 +1,28 @@
-<h1 align="center">hecateq</h1>
+<div align="center">
+
+# hecateq
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Private+Product+Infrastructure" alt="Typing SVG" />
 
 <p align="center">
-  <strong>Deterministic AI Agent Workflows • Custom Developer Tooling • Private Product Infrastructure</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/AI_Agent_Systems-58A6FF?style=flat-square" alt="AI Agent Systems" /></a>
-  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/OpenCode_Tooling-58A6FF?style=flat-square" alt="OpenCode Tooling" /></a>
-  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Developer_Automation-58A6FF?style=flat-square" alt="Developer Automation" /></a>
-  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Workflow_Safety-58A6FF?style=flat-square" alt="Workflow Safety" /></a>
-  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Full_Stack_Systems-58A6FF?style=flat-square" alt="Full Stack Systems" /></a>
-</p>
-
-<p align="center">
-  <a href="#what-i-build">What I Build</a> •
-  <a href="#public-direction">Public Direction</a> •
-  <a href="#private-engineering-work">Private Engineering</a> •
-  <a href="#engineering-principles">Principles</a> •
-  <a href="#tech-stack">Tech Stack</a>
+  <strong>Designing deterministic agent routing systems, workflow safety nets, and project-aware developer automation.</strong>
 </p>
 
 ---
 
-### What I Build
+<p align="center">
+  <a href="#about-me">About Me</a> •
+  <a href="#public-contributions">Public Contributions</a> •
+  <a href="#private-engineering">Private Engineering</a> •
+  <a href="#engineering-principles">Principles</a> •
+  <a href="#technologies">Technologies</a>
+</p>
+
+</div>
+
+---
+
+### 👤 About Me
 
 I design and implement deterministic developer automation systems, custom AI agent routing frameworks, and production-grade full-stack systems. My work focuses on building infrastructure that allows development environments to become self-documenting and context-aware, prioritizing reliability and safety over unconstrained code generation.
 
@@ -32,7 +32,7 @@ I design and implement deterministic developer automation systems, custom AI age
 
 ---
 
-### Public Direction
+### 🌐 Public Contributions
 
 My public contributions and research focus on extending AI agent runtimes with deterministic execution constraints.
 
@@ -46,61 +46,59 @@ My public contributions and research focus on extending AI agent runtimes with d
 
 ---
 
-### Private Engineering Work
+### 🛡️ Private Engineering
 
-A significant portion of my daily engineering is conducted within private repositories for proprietary products and client operations. These architectures are built with a focus on scale, modularity, and automation:
+A significant portion of my daily engineering is conducted within private repositories for proprietary products and client operations, focused on scale, modularity, and automation:
 
-#### ⚙️ Private Product Systems
-*   **Mobile-First Platforms:** Multilingual applications engineered with robust offline-first synchronization, local database engines, and cross-platform mobile architectures.
-*   **Infrastructure & Economy:** Scalable backend APIs integrated with state-machine-driven monetization systems, leaderboards, and administrative telemetry portals.
-
-#### 📦 Client & Business Automation
-*   **Operational Tooling:** Custom dashboards, internal process optimization utilities, and AI-assisted workflow orchestrators designed to automate complex, manual operational loops.
-
-#### 🌐 3D & Interactive Web Systems
-*   **Procedural Web Interfaces:** React-based real-time 3D configurators utilizing canvas-based visualization, live calculations, dynamic pricing engines, and strict server-side state verification.
+*   **Private Product Systems:** Multilingual applications engineered with robust offline-first synchronization, local database engines, and cross-platform mobile architectures. Integrates state-machine-driven monetization systems, leaderboards, and administrative telemetry portals.
+*   **Client & Business Automation:** Custom dashboards, internal process optimization utilities, and AI-assisted workflow orchestrators designed to automate complex, manual operational loops.
+*   **3D & Interactive Web Systems:** React-based real-time 3D configurators utilizing canvas-based visualization, live calculations, dynamic pricing engines, and strict server-side state verification.
 
 ---
 
-### Engineering Principles
+### 🧠 Engineering Principles
 
-*   **Scan Before Changing:** Analyze the codebase, dependencies, and syntax tree before touching files.
-*   **No Fake Fallbacks:** Fail explicitly. Silent failures, half-working code, or mock success states are unacceptable.
-*   **Verify Before Completion:** Every change must be validated against type systems, lint rules, and test suites.
-*   **Context Matters:** Maintain active workspace state to ensure autonomous runs are bounded by explicit architectural guidelines.
-*   **Safe Automation:** Bounded execution loops and structured logging always take precedence over speed.
+> [!IMPORTANT]
+> **Scan Before Changing**
+> Deeply analyze codebase layout, dependencies, and syntax tree before touching files.
 
----
+> [!TIP]
+> **No Fake Fallbacks & Verification**
+> Fail explicitly. Silent failures or mock success states are unacceptable. Every change must be validated against type systems, lint rules, and test suites.
 
-### Tech Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Agent & Automation** | TypeScript, Node.js, Python, Bash, OpenCode integration, CLI Tooling |
-| **Web & Product** | React, Next.js, Flutter, Dart, Tailwind CSS, Three.js / React Three Fiber |
-| **Backend & DevOps** | PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Firebase |
+> [!NOTE]
+> **Context-Aware Safety**
+> Maintain active workspace state to ensure autonomous runs are bounded by explicit architectural guidelines. Bounded execution loops and structured logging always take precedence over speed.
 
 ---
 
-### Current Focus
+### 🛠️ Technologies
 
-*   Designing safer, project-aware multi-agent delegation frameworks.
-*   Developing reusable CLI utilities for automated codebase analysis and report generation.
-*   Formulating templates to bridge private R&D work into public, open-source case studies.
-
----
-
-### GitHub Overview
-
-<p align="left">
-  <a href="https://github.com/hecateq">
-    <img src="https://github-readme-stats.vercel.app/api?username=hecateq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's GitHub Stats" width="400" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,bash,react,next,tailwind,threejs,flutter,dart,postgres,mongodb,prisma,docker,githubactions,firebase" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### Contact & Links
+### 📊 GitHub Overview
 
-*   **GitHub:** [@hecateq](https://github.com/hecateq)
-*   **Focus Areas:** AI Agent Orchestration, Developer Automation, Context Engines.
+<div align="center">
+  <a href="https://github.com/hecateq">
+    <img src="https://github-readme-stats.vercel.app/api?username=hecateq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/hecateq">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecateq&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's Top Languages" width="49%" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Contact & Links
+
+**GitHub:** [@hecateq](https://github.com/hecateq) • **Focus Areas:** AI Agent Orchestration, Developer Automation, Context Engines.
+
+</div>
