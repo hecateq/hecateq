@@ -1,6 +1,8 @@
 <div align="center">
 
-# hecateq
+<img src="./assets/banner.png" alt="Hecateq Banner" width="100%" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Private+Product+Infrastructure" alt="Typing SVG" />
 
@@ -29,6 +31,17 @@ I design and implement deterministic developer automation systems, custom AI age
 *   **AI-Assisted Workflows:** Context-driven automation engines and custom routing layers for development processes.
 *   **CLI-First Developer Tooling:** AST-aware scanners, local workspace verification scripts, and automated progress reporters.
 *   **Scalable Architectures:** Secure, production-ready backend APIs, cross-platform mobile systems, and real-time interactive web applications.
+
+---
+
+### ⚙️ Orchestration Framework Status
+
+| Runtime Parameter | Enforcement Status | System Constraints |
+| :--- | :---: | :--- |
+| **Agent Routing Engine** | `ACTIVE` | Deterministic Node Resolver (No LLM Fallback) |
+| **Workspace Safety Boundary** | `ENFORCED` | Token-limited Sandbox & Path Constraints |
+| **AST Context Mapping** | `OPTIMIZED` | Graph-based Class & Import Dependency Solver |
+| **Execution Verification** | `MANDATORY` | Automated Lint, Build, and Typecheck Loop |
 
 ---
 
