@@ -51,7 +51,7 @@ I build **deterministic AI agent orchestration systems**, custom developer tooli
 
 ### 🌐 Public Direction
 
-I maintain an **independent custom fork** based on [`oh-my-openagent`](https://github.com/hecateq) — used as my primary research ground for safer agent orchestration.
+I maintain an **independent custom fork** based on [`oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) — used as my primary research ground for safer agent orchestration.
 
 <table>
 <tr>
