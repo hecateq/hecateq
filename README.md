@@ -1,127 +1,106 @@
-# hecateq
+<h1 align="center">hecateq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Project-Aware+Automation" alt="Typing SVG" />
+  <strong>Deterministic AI Agent Workflows • Custom Developer Tooling • Private Product Infrastructure</strong>
 </p>
 
 <p align="center">
-  <strong>Designing deterministic agent routing systems, workflow safety nets, and project-aware developer automation.</strong>
+  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/AI_Agent_Systems-58A6FF?style=flat-square" alt="AI Agent Systems" /></a>
+  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/OpenCode_Tooling-58A6FF?style=flat-square" alt="OpenCode Tooling" /></a>
+  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Developer_Automation-58A6FF?style=flat-square" alt="Developer Automation" /></a>
+  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Workflow_Safety-58A6FF?style=flat-square" alt="Workflow Safety" /></a>
+  <a href="https://github.com/hecateq"><img src="https://img.shields.io/badge/Full_Stack_Systems-58A6FF?style=flat-square" alt="Full Stack Systems" /></a>
 </p>
 
 <p align="center">
-  <a href="#-philosophy">Philosophy</a> •
-  <a href="#-selected-rnd">R&D Projects</a> •
-  <a href="#-agent-execution-flow">Execution Flow</a> •
-  <a href="#-tech-stack">Tech Stack</a>
+  <a href="#what-i-build">What I Build</a> •
+  <a href="#public-direction">Public Direction</a> •
+  <a href="#private-engineering-work">Private Engineering</a> •
+  <a href="#engineering-principles">Principles</a> •
+  <a href="#tech-stack">Tech Stack</a>
 </p>
 
 ---
 
-### 🧠 Philosophy
+### What I Build
 
-> *"Code generation without deep context is just noise. We build agents that read, understand, and verify before they dare write a single line."*
+I design and implement deterministic developer automation systems, custom AI agent routing frameworks, and production-grade full-stack systems. My work focuses on building infrastructure that allows development environments to become self-documenting and context-aware, prioritizing reliability and safety over unconstrained code generation.
 
-*   **Scan-First Architecture:** Never touch a file without analyzing the complete AST, dependencies, and project boundaries.
-*   **Zero-Fake Fallbacks:** If a resolver cannot safely proceed, it halts and reports. No hallucinated loops, no silent failures.
-*   **Verification Loop:** Automated runtime checks, type assertions, and lints run alongside the development cycle, not after.
-
----
-
-### 🛡️ Selected R&D
-
-#### ⚙️ [Hecateq OpenAgent](https://github.com/hecateq)
-*An independent, production-ready fork of the OpenCode agent engine.*
-*   **Focus:** Implementing deterministic routing rules, multi-agent dependency structures, and memory-bank validation.
-*   **Safety Boundaries:** Isolates agent workspace environments and strictly constraints execution tokens to prevent runaway loops.
-
-#### 🔧 CLI Developer Tooling & Workspace Automation
-*Custom command-line utilities designed for agentic workflows.*
-*   **Context Scanners:** Highly optimized workspace analysis tools feeding structured AST metrics to agent prompts.
-*   **Memory-Bank Managers:** Automated synchronization tools for project state documents, active contexts, and architectural decision records.
+*   **AI-Assisted Workflows:** Context-driven automation engines and custom routing layers for development processes.
+*   **CLI-First Developer Tooling:** AST-aware scanners, local workspace verification scripts, and automated progress reporters.
+*   **Scalable Architectures:** Secure, production-ready backend APIs, cross-platform mobile systems, and real-time interactive web applications.
 
 ---
 
-### 📐 Agent Execution Flow
+### Public Direction
 
-Below is the state-machine workflow implemented inside **Hecateq OpenAgent** to guarantee deterministic execution:
+My public contributions and research focus on extending AI agent runtimes with deterministic execution constraints.
 
-```mermaid
-graph TD
-    Start([Task Initiated]) --> Scan[Workspace AST & Dependency Scan]
-    Scan --> Context{Context Sufficient?}
-    
-    Context -- No --> Refine[Automated Context Retrieval]
-    Refine --> Scan
-    
-    Context -- Yes --> Plan[Generate Local Implementation Plan]
-    Plan --> VerifyPlan{Plan Verified?}
-    
-    VerifyPlan -- No --> Halt([Explicit Halting & Error Reporting])
-    
-    VerifyPlan -- Yes --> Exec[Isolate & Execute Changes]
-    Exec --> Test[Typecheck / Lint / Run Test Runner]
-    
-    Test -- Pass --> Commit[Commit & Generate Walkthrough]
-    Test -- Fail --> Debug[Read Logs & Re-Route Exec]
-    Debug --> Exec
-    
-    Commit --> Done([Done])
-
-    style Start fill:#1f2328,stroke:#30363d,stroke-width:2px
-    style Halt fill:#f85149,stroke:#30363d,stroke-width:2px,color:#fff
-    style Done fill:#238636,stroke:#30363d,stroke-width:2px,color:#fff
-    style Context fill:#1f2328,stroke:#30363d,stroke-width:2px
-    style VerifyPlan fill:#1f2328,stroke:#30363d,stroke-width:2px
-```
+*   **Custom Agent Runups:** I maintain an independent custom fork based on [oh-my-openagent](https://github.com/hecateq).
+*   **Orchestration Research:** This fork serves as my primary implementation ground for experimenting with agent-routing logic, custom delegation rules, and environment safety boundaries.
+*   **Key Focus Areas:**
+    *   **Scan-First Flow:** Enforcing comprehensive workspace analysis before permitting any code mutation.
+    *   **Deterministic Routing:** Directing tasks to specialized sub-agents based on dependency trees rather than loose prompting.
+    *   **No-Fake-Fallbacks:** Halting and reporting failure explicitly when safe boundaries are reached, eliminating silent errors.
+    *   **Structured Post-Execution Reporting:** Generating machine-readable execution logs to feed workspace memory back into the project.
 
 ---
 
-### 💻 Workspace CLI Output Example
+### Private Engineering Work
 
-A look at the workspace validation workflow using custom developer tooling:
+A significant portion of my daily engineering is conducted within private repositories for proprietary products and client operations. These architectures are built with a focus on scale, modularity, and automation:
 
-```bash
-$ hecateq-agent scan --target ./src
-[+] Scanning workspace structure... (found 42 source files)
-[+] Analyzing dependencies and TypeScript AST tree.
-[+] Validating memory-bank status: ACTIVE
-    | Active Context: Implementing deterministic resolver router.
-    | Pending Tasks:  None. System fully aligned.
-[+] Lint check: Clean
-[+] Type check: Clean
-[✓] Workspace status is READY for agent orchestration.
-```
+#### ⚙️ Private Product Systems
+*   **Mobile-First Platforms:** Multilingual applications engineered with robust offline-first synchronization, local database engines, and cross-platform mobile architectures.
+*   **Infrastructure & Economy:** Scalable backend APIs integrated with state-machine-driven monetization systems, leaderboards, and administrative telemetry portals.
+
+#### 📦 Client & Business Automation
+*   **Operational Tooling:** Custom dashboards, internal process optimization utilities, and AI-assisted workflow orchestrators designed to automate complex, manual operational loops.
+
+#### 🌐 3D & Interactive Web Systems
+*   **Procedural Web Interfaces:** React-based real-time 3D configurators utilizing canvas-based visualization, live calculations, dynamic pricing engines, and strict server-side state verification.
 
 ---
 
-### 🛠️ Tech Stack
+### Engineering Principles
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🤖 Agent & Automation Tooling</strong>
-      <ul>
-        <li>TypeScript / Node.js (Core R&D)</li>
-        <li>Python (AST Scanners & Scripting)</li>
-        <li>Bash (CLI Wrappers & System Automation)</li>
-        <li>Prisma & PostgreSQL (State Databases)</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>🌐 Web & Mobile Development</strong>
-      <ul>
-        <li>React & Next.js (Admin & Configurator Views)</li>
-        <li>Flutter & Dart (Cross-Platform Mobile Tools)</li>
-        <li>Three.js / React Three Fiber (3D Visualizations)</li>
-        <li>Docker & GitHub Actions (CI/CD Pipelines)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   **Scan Before Changing:** Analyze the codebase, dependencies, and syntax tree before touching files.
+*   **No Fake Fallbacks:** Fail explicitly. Silent failures, half-working code, or mock success states are unacceptable.
+*   **Verify Before Completion:** Every change must be validated against type systems, lint rules, and test suites.
+*   **Context Matters:** Maintain active workspace state to ensure autonomous runs are bounded by explicit architectural guidelines.
+*   **Safe Automation:** Bounded execution loops and structured logging always take precedence over speed.
 
 ---
 
-### 💬 Contact & Links
+### Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Agent & Automation** | TypeScript, Node.js, Python, Bash, OpenCode integration, CLI Tooling |
+| **Web & Product** | React, Next.js, Flutter, Dart, Tailwind CSS, Three.js / React Three Fiber |
+| **Backend & DevOps** | PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Firebase |
+
+---
+
+### Current Focus
+
+*   Designing safer, project-aware multi-agent delegation frameworks.
+*   Developing reusable CLI utilities for automated codebase analysis and report generation.
+*   Formulating templates to bridge private R&D work into public, open-source case studies.
+
+---
+
+### GitHub Overview
+
+<p align="left">
+  <a href="https://github.com/hecateq">
+    <img src="https://github-readme-stats.vercel.app/api?username=hecateq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's GitHub Stats" width="400" />
+  </a>
+</p>
+
+---
+
+### Contact & Links
 
 *   **GitHub:** [@hecateq](https://github.com/hecateq)
-*   **Focus Areas:** AI Agent Orchestration, DevTool CLI Automation, Semantic Context Engines.
+*   **Focus Areas:** AI Agent Orchestration, Developer Automation, Context Engines.
