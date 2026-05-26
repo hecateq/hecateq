@@ -95,19 +95,6 @@ A significant portion of my daily engineering is conducted within private reposi
 
 ---
 
-### 📊 GitHub Overview
-
-<div align="center">
-  <a href="https://github.com/hecateq">
-    <img src="https://github-readme-stats.vercel.app/api?username=hecateq&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/hecateq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecateq&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="hecateq's Top Languages" width="49%" />
-  </a>
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Contact & Links
