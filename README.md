@@ -22,6 +22,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hecateq&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/hecateq.com-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://www.hecateq.com)
+&nbsp;&nbsp;
 ![Focus](https://img.shields.io/badge/Focus-AI%20Agent%20Orchestration-58a6ff?style=flat-square)
 &nbsp;&nbsp;
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-238636?style=flat-square)
@@ -192,6 +194,6 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer)
 
-**[@hecateq](https://github.com/hecateq)** &nbsp;·&nbsp; AI Agent Orchestration &nbsp;·&nbsp; Developer Tooling &nbsp;·&nbsp; Full-Stack Systems
+**[@hecateq](https://github.com/hecateq)** &nbsp;·&nbsp; **[hecateq.com](https://www.hecateq.com)** &nbsp;·&nbsp; AI Agent Orchestration &nbsp;·&nbsp; Developer Tooling &nbsp;·&nbsp; Full-Stack Systems
 
 </div>
