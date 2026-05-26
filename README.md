@@ -1,104 +1,152 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Hecateq Banner" width="100%" />
+<img src="./assets/header.svg" alt="Hecateq" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Private+Product+Infrastructure" alt="Typing SVG" />
+<img src="./assets/banner.png" alt="Hecateq — Deterministic AI Agent Workflows" width="100%" />
 
-<p align="center">
-  <strong>Designing deterministic agent routing systems, workflow safety nets, and project-aware developer automation.</strong>
-</p>
+<br/><br/>
 
----
-
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#public-contributions">Public Contributions</a> •
-  <a href="#private-engineering">Private Engineering</a> •
-  <a href="#engineering-principles">Principles</a> •
-  <a href="#technologies">Technologies</a>
-</p>
+<a href="#-what-i-build">What I Build</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-public-direction">Public Direction</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-private-engineering">Private Engineering</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-principles">Principles</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#-stack">Stack</a>
 
 </div>
 
----
+<br/>
 
-### 👤 About Me
-
-I design and implement deterministic developer automation systems, custom AI agent routing frameworks, and production-grade full-stack systems. My work focuses on building infrastructure that allows development environments to become self-documenting and context-aware, prioritizing reliability and safety over unconstrained code generation.
-
-*   **AI-Assisted Workflows:** Context-driven automation engines and custom routing layers for development processes.
-*   **CLI-First Developer Tooling:** AST-aware scanners, local workspace verification scripts, and automated progress reporters.
-*   **Scalable Architectures:** Secure, production-ready backend APIs, cross-platform mobile systems, and real-time interactive web applications.
+I build **deterministic AI agent orchestration systems**, custom developer tooling, and production-grade full-stack infrastructure. Most of my work lives in private repositories — the engineering direction is outlined below.
 
 ---
 
-### ⚙️ Orchestration Framework Status
+### ⚡ What I Build
 
-| Runtime Parameter | Enforcement Status | System Constraints |
-| :--- | :---: | :--- |
-| **Agent Routing Engine** | `ACTIVE` | Deterministic Node Resolver (No LLM Fallback) |
-| **Workspace Safety Boundary** | `ENFORCED` | Token-limited Sandbox & Path Constraints |
-| **AST Context Mapping** | `OPTIMIZED` | Graph-based Class & Import Dependency Solver |
-| **Execution Verification** | `MANDATORY` | Automated Lint, Build, and Typecheck Loop |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Agent Infrastructure**
+
+- Custom agent routing & delegation engines
+- Scan-first workspace analysis pipelines
+- Memory-bank & context synchronization
+- Structured post-execution reporting
+- CLI-first developer productivity tools
+
+</td>
+<td width="50%" valign="top">
+
+**Product Systems**
+
+- Cross-platform mobile applications
+- Real-time 3D web configurators
+- Backend APIs & admin dashboards
+- Business automation workflows
+- Interactive pricing & validation engines
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Public Contributions
+### 🌐 Public Direction
 
-My public contributions and research focus on extending AI agent runtimes with deterministic execution constraints.
+I maintain an **independent custom fork** based on [`oh-my-openagent`](https://github.com/hecateq) — used as my primary research ground for safer agent orchestration.
 
-*   **Custom Agent Runups:** I maintain an independent custom fork based on [oh-my-openagent](https://github.com/hecateq).
-*   **Orchestration Research:** This fork serves as my primary implementation ground for experimenting with agent-routing logic, custom delegation rules, and environment safety boundaries.
-*   **Key Focus Areas:**
-    *   **Scan-First Flow:** Enforcing comprehensive workspace analysis before permitting any code mutation.
-    *   **Deterministic Routing:** Directing tasks to specialized sub-agents based on dependency trees rather than loose prompting.
-    *   **No-Fake-Fallbacks:** Halting and reporting failure explicitly when safe boundaries are reached, eliminating silent errors.
-    *   **Structured Post-Execution Reporting:** Generating machine-readable execution logs to feed workspace memory back into the project.
+<table>
+<tr>
+<td align="center" width="25%"><strong>Scan-First</strong><br/><sub>Full workspace analysis<br/>before any mutation</sub></td>
+<td align="center" width="25%"><strong>Deterministic Routing</strong><br/><sub>Dependency-tree based<br/>task delegation</sub></td>
+<td align="center" width="25%"><strong>No Fake Fallbacks</strong><br/><sub>Explicit failure reporting<br/>over silent errors</sub></td>
+<td align="center" width="25%"><strong>Structured Reports</strong><br/><sub>Machine-readable logs<br/>fed back to memory</sub></td>
+</tr>
+</table>
 
 ---
 
 ### 🛡️ Private Engineering
 
-A significant portion of my daily engineering is conducted within private repositories for proprietary products and client operations, focused on scale, modularity, and automation:
+> A significant portion of my daily work ships within private repositories across mobile, web, backend, and automation domains.
 
-*   **Private Product Systems:** Multilingual applications engineered with robust offline-first synchronization, local database engines, and cross-platform mobile architectures. Integrates state-machine-driven monetization systems, leaderboards, and administrative telemetry portals.
-*   **Client & Business Automation:** Custom dashboards, internal process optimization utilities, and AI-assisted workflow orchestrators designed to automate complex, manual operational loops.
-*   **3D & Interactive Web Systems:** React-based real-time 3D configurators utilizing canvas-based visualization, live calculations, dynamic pricing engines, and strict server-side state verification.
+<details>
+<summary><strong>📱 Private Product Systems</strong></summary>
+<br/>
+
+- Multilingual mobile applications with offline-first sync
+- State-machine-driven economy, leaderboards & admin panels
+- Scalable backend architectures with telemetry integration
+
+</details>
+
+<details>
+<summary><strong>🔧 Client & Business Automation</strong></summary>
+<br/>
+
+- Internal dashboards & process optimization utilities
+- AI-assisted operational workflow orchestrators
+- Automated report generation & scheduling
+
+</details>
+
+<details>
+<summary><strong>🌐 3D & Interactive Web</strong></summary>
+<br/>
+
+- Procedural 3D product configurators (React / Three.js)
+- Real-time dimension calculations & live pricing
+- Server-side state validation & cart snapshots
+
+</details>
 
 ---
 
-### 🧠 Engineering Principles
+### 🧠 Principles
 
-> [!IMPORTANT]
-> **Scan Before Changing**
-> Deeply analyze codebase layout, dependencies, and syntax tree before touching files.
-
-> [!TIP]
-> **No Fake Fallbacks & Verification**
-> Fail explicitly. Silent failures or mock success states are unacceptable. Every change must be validated against type systems, lint rules, and test suites.
-
-> [!NOTE]
-> **Context-Aware Safety**
-> Maintain active workspace state to ensure autonomous runs are bounded by explicit architectural guidelines. Bounded execution loops and structured logging always take precedence over speed.
+```
+ SCAN before changing           VERIFY before claiming completion
+ NO fake fallbacks              EXPLICIT error paths only
+ CONTEXT drives decisions       SAFE automation over blind speed
+ DEPENDENCY-AWARE scheduling    REPORTS explain what changed & why
+```
 
 ---
 
-### 🛠️ Technologies
+### 🛠️ Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,bash,react,next,tailwind,threejs,flutter,dart,postgres,mongodb,prisma,docker,githubactions,firebase" alt="My Skills" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,bash&theme=dark" alt="Languages" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,threejs,flutter,dart&theme=dark" alt="Frameworks" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,firebase,docker,githubactions&theme=dark" alt="Infrastructure" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hecateq/hecateq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hecateq/hecateq/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hecateq/hecateq/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Contact & Links
-
-**GitHub:** [@hecateq](https://github.com/hecateq) • **Focus Areas:** AI Agent Orchestration, Developer Automation, Context Engines.
+**[@hecateq](https://github.com/hecateq)** · AI Agent Orchestration · Developer Automation · Full-Stack Systems
 
 </div>
