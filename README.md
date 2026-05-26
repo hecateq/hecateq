@@ -8,6 +8,10 @@
 
 <sub>Deterministic AI Agent Workflows &nbsp;—&nbsp; Developer Tooling &nbsp;—&nbsp; Private Systems</sub>
 
+<br/>
+
+**[🌐 hecateq.com](https://www.hecateq.com)**
+
 </div>
 
 <div align="center">
@@ -21,8 +25,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hecateq&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/hecateq.com-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://www.hecateq.com)
 &nbsp;&nbsp;
 ![Focus](https://img.shields.io/badge/Focus-AI%20Agent%20Orchestration-58a6ff?style=flat-square)
 &nbsp;&nbsp;
@@ -177,6 +179,8 @@ Independent custom fork based on [`oh-my-openagent`](https://github.com/code-yeo
 ---
 
 ### 🐍 Contribution Activity
+
+> **Note:** Most of my contributions are made to **private repositories** — client work, proprietary products, and internal tooling. The graph below reflects only public activity.
 
 <div align="center">
 
