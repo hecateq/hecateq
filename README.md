@@ -1,6 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=180&section=header&text=hecateq&fontSize=72&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=Deterministic%20AI%20Agent%20Workflows%20%E2%80%94%20Developer%20Tooling%20%E2%80%94%20Private%20Systems&descAlignY=62&descSize=14&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=160&section=header)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=HECATEQ;AI+Agent+Orchestration;Custom+Developer+Tooling;Deterministic+Workflows;Workflow+Safety+%26+Automation;Project-Aware+Execution" alt="Typing SVG" />
+
+<br/>
+
+<sub>Deterministic AI Agent Workflows &nbsp;—&nbsp; Developer Tooling &nbsp;—&nbsp; Private Systems</sub>
 
 </div>
 
